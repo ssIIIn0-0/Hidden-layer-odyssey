@@ -14,4 +14,4 @@
 
 ## 게임영상 및 기술서
 - 동영상 : 본맵 https://youtu.be/QFgJjjmUsqQ , 이스터에그맵 https://youtu.be/yxEw32g1u6w
-- 기술서 : https://ssiiin.notion.site/Hidden-layer-odyssey-8ff4004ea61d4f15a8e21502f7d67bc7?pvs=4
+
