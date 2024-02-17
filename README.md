@@ -12,6 +12,6 @@
 - 플랫폼 : PC
 
 
-## 게임영상 및 기술서
+## 게임영상
 - 동영상 : 본맵 https://youtu.be/QFgJjjmUsqQ , 이스터에그맵 https://youtu.be/yxEw32g1u6w
 
